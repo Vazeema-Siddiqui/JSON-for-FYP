@@ -8,10 +8,7 @@
         "requirements":"",
         "no_of_positions":"",
         "min_qualif":"",
-        "experience":{
-            "min":"",
-            "max":""
-        }
+        "experience":""
     },
     {
         "job_id":3,
@@ -22,9 +19,7 @@
         "requirements":"",
         "no_of_positions":"",
         "min_qualif":"",
-        "experience":{
-            "min":"",
-            "max":""
+        "experience":""
         }
     },
     {
@@ -36,9 +31,7 @@
         "requirements":"",
         "no_of_positions":"",
         "min_qualif":"",
-        "experience":{
-            "min":"",
-            "max":""
+        "experience":""
         }
     }
 ]
