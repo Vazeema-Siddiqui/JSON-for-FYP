@@ -3,18 +3,7 @@
         "job_id":1,
         "job_title":"Application Consultant",
         "job_location":"Karachi",
-        "job_summary":"",
-        "job-description":"",
-        "requirements":"",
-        "no_of_positions":"",
-        "min_qualif":"",
-        "experience":""
-    },
-    {
-        "job_id":3,
-        "job_title":"Application Consultant",
-        "job_location":"Karachi",
-        "job_summary":"",
+        "job_summary":"Looking to hire Application Consultants for Karachi office.",
         "job-description":"",
         "requirements":"",
         "no_of_positions":"",
@@ -23,9 +12,128 @@
     },
     {
         "job_id":2,
-        "job_title":"Application Consultant",
+        "job_title":"Java Developer",
         "job_location":"Karachi",
         "job_summary":"",
+        "job-description":"Duties & Responsibilities:
+• Specify, design, implement, test, and maintain platform-independent, complex software system components and applications
+• Work on existing source code to incorporate new features; ensure that the piece of code written is bug-free
+• Work under direct supervision with assigned teams/project components to develop and modify existing source code
+• Fix bugs and conduct unit testing, make necessary changes to source code and document them. Ensure that company Development standards are followed
+• Work independently or with a team on assigned tasks and projects of diverse scope and complexity. Design and implement algorithms for assigned tasks. Execute Development assignments to include a conceptual approach to design, coding and debugging.
+
+Required Skills & Qualifications:
+• Bachelors degree in Computer Science / Computer Engineering
+• 3+ years of experience in application programming using Java and Spring /Struts frameworks, JSP, ORM, and Web Development (JavaScript, JQuery)
+• Experience in RDBMS and SQL using Sybase/Oracle is preferred
+• Hands-on experience in Java Development environments like Eclipse
+• Excellent object-oriented programming skills and design patterns
+• Good verbal and written communication skills
+• Experience with application servers JEE deployment",
+        "requirements":"",
+        "no_of_positions":"",
+        "min_qualif":"",
+        "experience":""
+    },
+    {
+        "job_id":3,
+        "job_title":"Senior Application Consultant",
+        "job_location":"Karachi",
+        "job_summary":"We are looking for ‘Senior Application Consultant’ based in Karachi. The candidates will lead multiple implementation teams across customers and will be responsible for client implementations and delivery.",
+        "job-description":"Qualification, Skills and Experience Criteria
+• Should have 7 plus years’ experience in leading multiple Implementation teams in the Payments Domain.
+• Should possess strong collaboration, leadership and conflict-resolution skills.
+• Should have the ability to foster and maintain strong, collaborative working relationships with internal stakeholders & third-party vendors.
+• Excellent analytical, verbal and written communication skills.
+• Must have a Bachelor’s or Master’s Degree in a Technology Domain.
+
+Required Technical Skills:
+• ISO8583 messages formats, ATM/CCDM controller, POS acquiring, EMV & Contactless card issuing, H2H interfaces with core banking and other digital channels.
+• Knowledge of integration protocols and practices for IBFT, UBPS, 1BILL, Processing with VISA...
+",
+        "requirements":"",
+        "no_of_positions":"",
+        "min_qualif":"",
+        "experience":""
+    },
+{
+        "job_id":4,
+        "job_title":"Senior Project Manager,
+        "job_location":"Karachi",
+        "job_summary":"Looking to hire Application Consultants for Karachi office.",
+        "job-description":"We are looking for ‘Senior Project Managers’ based in Karachi. The candidate will be responsible for driving the project delivery teams spanning across the client portfolio. The candidate will be required to manage project resources, project schedules and the project budget, ensuring adherence to the employed Project Management Methodology throughout the lifecycle of the projects. This position will be responsible for the management of all project issues, risks, project change requests and all stakeholder communication to ensure a successful on-schedule project delivery.
+
+Qualification, Skills and Experience Criteria \n
+Should have 8-10 years’ experience in directly managing the delivery of projects in the Payments Industry.
+Must have a proven ability to manage effective delivery of multiple projects in a multi-tasking, fast-paced environment.
+Must have a proven track record of managing projects employing SDLC methodologies.
+Must have excellent interpersonal, communication and strong presentation skills.
+At least a Bachelor’s degree in a Technical Domain, with PMP certification, is mandatory.",
+        "requirements":"",
+        "no_of_positions":"",
+        "min_qualif":"",
+        "experience":""
+    },
+{
+        "job_id":5,
+        "job_title":"Software Quality Assurance Engineer",
+        "job_location":"Karachi",
+        "job_summary":"Looking to hire Application Consultants for Karachi office.",
+        "job-description":"",
+        "requirements":"",
+        "no_of_positions":"",
+        "min_qualif":"",
+        "experience":""
+    },
+{
+        "job_id":6,
+        "job_title":"Senior Manager, Product Management",
+        "job_location":"Karachi",
+        "job_summary":"Looking to hire Application Consultants for Karachi office.",
+        "job-description":"",
+        "requirements":"",
+        "no_of_positions":"",
+        "min_qualif":"",
+        "experience":""
+    },
+{
+        "job_id":7,
+        "job_title":"Senior Presales Consultant",
+        "job_location":"Karachi",
+        "job_summary":"Looking to hire Application Consultants for Karachi office.",
+        "job-description":"",
+        "requirements":"",
+        "no_of_positions":"",
+        "min_qualif":"",
+        "experience":""
+    },
+{
+        "job_id":8,
+        "job_title":"echnical Presales Manager",
+        "job_location":"Karachi",
+        "job_summary":"Looking to hire Application Consultants for Karachi office.",
+        "job-description":"",
+        "requirements":"",
+        "no_of_positions":"",
+        "min_qualif":"",
+        "experience":""
+    },
+{
+        "job_id":9,
+        "job_title":"Assistant Manager, Marketing and PR",
+        "job_location":"Karachi",
+        "job_summary":"Looking to hire Application Consultants for Karachi office.",
+        "job-description":"",
+        "requirements":"",
+        "no_of_positions":"",
+        "min_qualif":"",
+        "experience":""
+    },
+{
+        "job_id":10,
+        "job_title":"Application Consultant",
+        "job_location":"Karachi",
+        "job_summary":"Looking to hire Application Consultants for Karachi office.",
         "job-description":"",
         "requirements":"",
         "no_of_positions":"",
